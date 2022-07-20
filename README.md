@@ -1,6 +1,6 @@
 ## Learning Regional Purity for 3D Instance Segmentation on Point Clouds (ECCV2022)
 
-Code for the paper **Learning Regional Purity for 3D Instance Segmentation on Point Clouds**, ECCV 2020.
+Code for the paper **Learning Regional Purity for 3D Instance Segmentation on Point Clouds**, ECCV 2022.
 
 **Authors**: Shichao Dong, Guosheng Lin, Tzu-yi Hung
 
@@ -31,6 +31,7 @@ cd PPGN
 (2) Install the dependent libraries.
 ```
 pip install -r requirements.txt
+conda install pytorch torchvision cudatoolkit -c pytorch
 conda install -c bioconda google-sparsehash 
 ```
 
