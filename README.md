@@ -74,4 +74,16 @@ This repo is built upon several repos, e.g.,  [spconv](https://github.com/travel
 ## Contact
 If you have any questions or suggestions about this repo, please feel free to contact me (scdong@ntu.edu.sg).
 
+## Citation
+If you find this project useful, please consider citing:
+```
+@inproceedings{dong2022learning,
+  title={Learning Regional Purity for Instance Segmentation on 3D Point Clouds},
+  author={Dong, Shichao and Lin, Guosheng and Hung, Tzu-Yi},
+  booktitle={European Conference on Computer Vision},
+  pages={56--72},
+  year={2022},
+  organization={Springer}
+}
+```
 
